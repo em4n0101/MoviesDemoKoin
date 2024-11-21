@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MoviesDemoKoin</string>
+    <string name="trending_movies">Trending</string>
+    <string name="favorites_movies">Favorites</string>
 </resources>
